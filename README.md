@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Toni744
 - 👀 I’m interested in DevOps and SRE roles.
-- 🌱 I’m great with Jenkins,Terraform, Docker, Kubernetes & AWS
+- 🌱 I’m great with Jenkins, Terraform, Docker, Kubernetes & AWS
 - 💞️ I’m looking to collaborate on DevOps and SRE projects.
 - 📫 How to reach me femi.obatoki@gmail.com or Oluwafemi Obatoki on Linkedin
 
