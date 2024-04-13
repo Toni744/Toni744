@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Toni
+- 👋 Hi, I’m @Toni or Josh
 - 👀 I’m interested in DevOps and SRE roles.
 - 🌱 I’m great with Jenkins, Terraform, Docker, Ansible, Kubernetes & AWS
 - 💞️ I’m looking to collaborate on DevOps and SRE projects.
